@@ -1,84 +1,100 @@
-<h1 align="center">Hi 👋, I'm Rameshwar Bhagwat</h1>
-<h3 align="center">🚀 B.Tech IT Student | Full-Stack Developer | AI/ML Builder | SaaS Founder</h3>
+<h1 align="center">Hi, I'm Rameshwar Bhagwat 👋</h1>
+<h3 align="center">Full-Stack Developer · AI/ML Integration · B.Tech IT Engineering Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rameshwarbhagwat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rameshwar-bhagwat10&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/rameshwar-bhagwat-888540328" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bhagwatrameshwar2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 SY B.Tech IT Engineering Student  
-- 💻 Building **Full-Stack + AI-powered SaaS Applications**  
-- 🚀 Currently working on **ThinkVerse** (AI-driven SaaS Platform)  
-- 🧠 Learning deeply: **Data Structures, System Design, AI/ML**  
-- 🎯 Mission: **Achieve high-level success by 2028 (skills + money + impact)**  
-- 🎬 YouTube: [RB EDITXX](https://www.youtube.com/@RBEDITXX) (100K+ Subscribers)  
-- ⚡ Focus Areas: **Development, AI, Business, Self-Growth**
+- 🎓 B.Tech Information Technology student, Sanjivani College of Engineering — CGPA 8.14/10
+- 🛠️ Building full-stack web apps and AI-integrated products — React/Next.js frontends, Node.js/Fastify backends
+- 📚 Currently building **Devory** (AI-driven student project platform) and **Safecoast** (coastal hazard intelligence platform)
+- 🎬 YouTube: [RB EDITXX](https://www.youtube.com/@RBEDITXX)
+- 📄 Portfolio: [rameshwarbhagwat.me](https://rameshwarbhagwat.me)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,supabase,python,c,cpp,git,github,vscode,figma" />
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs" />
+</p>
+
+**Backend & Data**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,redis,prisma,supabase" />
+</p>
+
+**Mobile, Tools & Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,androidstudio,git,github,vscode,docker,aws,figma" />
 </p>
 
 ---
 
-## ⚡ What I'm Building
+## Featured Projects
 
-- 🧠 **ThinkVerse (SaaS Platform)**  
-  → AI-powered idea validation, smart recommendations & collaboration system  
-  → Built with modern full-stack architecture  
+### 📚 Devory — AI-Driven Student Project Platform
+Helps students discover, plan, and manage real-world technical projects with AI-backed recommendations.
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Tailwind CSS` `OpenAI API`
+[Live](#) · [Source](#) — *add your links here*
 
-- 📊 **Devory (Project Ideas Platform)**  
-  → Student-focused platform for discovering and sharing project ideas  
-  → Dark-themed UI + scalable backend architecture  
+### 🌊 Safecoast — Coastal Hazard Intelligence Platform
+Monitors environmental risk factors and surfaces real-time alerting for coastal hazard awareness.
+`Next.js` `TypeScript` `Node.js` `Tailwind CSS` `OpenWeather API`
+[Live](#) · [Source](#) — *add your links here*
 
-- 🧪 **Mini Systems & Core Projects**  
-  → Authentication systems, CRUD apps, sorting/searching logic, DBMS projects  
+### 🌐 Developer Portfolio
+Personal site with a glassmorphic bento layout, real-time visitor analytics, and a terminal-style CLI sandbox.
+`Next.js 16 (Turbopack)` `TypeScript` `Three.js` `Framer Motion` `Upstash Redis`
+[Live](https://rameshwarbhagwat.me)
+
+### 🧪 Academic Projects
+- **Library Management System** — DBMS-based full-stack app
+- **Agro Krishi Seva Kendra** — agriculture services platform
 
 ---
 
-## 🔥 GitHub Stats & Activity
+## Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| OpenAI Buildthon 2026 | OpenAI | 2026 |
+| Fundamentals of Machine Learning | Google Cloud / Kaggle | 2025 |
+| Developing AI Solutions on Microsoft Azure | Microsoft | 2025 |
+| Elite NPTEL Certification | IIT Madras (NPTEL) | 2025 |
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rameshwarbhagwat&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshwarbhagwat&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rameshwar-bhagwat10&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshwar-bhagwat10&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rameshwarbhagwat&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rameshwar-bhagwat10&theme=react-dark&area=true&hide_border=true&radius=16&color=00ffff&line=00ffff&point=ffffff&bg_color=0d1117" alt="Contribution Graph" />
 </p>
 
 ---
 
-<h2 align="center">📊 Contribution Graph</h2>
+## Connect
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rameshwarbhagwat&theme=react-dark&area=true&hide_border=true&radius=16&color=00ffff&line=00ffff&point=ffffff&bg_color=0d1117"
-    alt="GitHub Contribution Graph" 
-  />
-</p>
-
----
-
-## 📈 Current Focus
-
-- ⚙️ Mastering **Full-Stack Development (Next.js + Backend Systems)**
-- 🧠 Learning **AI/ML + Real-world Implementation**
-- 🏗️ Building **Scalable SaaS Products**
-- 📚 Improving **Problem Solving (DSA)**  
-- 🎯 Preparing for **Top-level Developer Opportunities**
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
+  <a href="https://github.com/Rameshwar-bhagwat10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/rameshwar-bhagwat-888540328" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -93,6 +109,4 @@
   </a>
 </p>
 
----
-
-<p align="center">⚡ Building. Learning. Scaling. No shortcuts.</p>
+<p align="center"><i>Building. Shipping. No shortcuts.</i></p>
